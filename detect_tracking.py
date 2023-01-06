@@ -1,3 +1,4 @@
+# In this code you can adjust range color hsv in line 21 to line 26 to detect ball
 import cv2 as cv
 import numpy as np
 import time
