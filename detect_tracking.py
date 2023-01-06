@@ -1,12 +1,3 @@
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-#                                                             #
-#           Họ tên thành viên              MSSV               #
-#           Nguyễn Minh Thành            20146422             #
-#           Nguyễn Hồng Nhân             20146381             #
-#           Trảo An Tân                  20146416             #
-#                                                             #
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-
 import cv2 as cv
 import numpy as np
 import time
